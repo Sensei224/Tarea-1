@@ -1,0 +1,86 @@
+body{
+	background-image: url(fondo2.jpg);
+	background-size: cover;
+}
+.letra{
+	font-family: Goudy Stout;
+	font-size: 100px;
+	animation-name: juli;
+	animation-duration: 10s;
+	animation-iteration-count: infinite;
+}
+@keyframes juli{
+	0%{color: #000000;}
+	25%{color: #848484;}
+	50%{color: #BE81F7;}
+	100%{color: #8181F7;}
+}
+.devo{
+	position: absolute;
+	top: 20px;
+	left: 1230px;
+	width: 109px;
+	height: 112px;
+}
+.act1{
+	position: absolute;
+	background-image: url(mora.png);
+	border: #9A2EFE 3px double;
+	top: 300px;
+	left: 100px;
+	width: 150px;
+	height: 50px;
+}
+.tra{
+	font-family: Forte; 
+	font-size: 70px;
+	color: #FE2EF7;
+}
+.let{
+	font-family: Forte;
+	font-size: 35px;
+}
+.parcial{
+	position: absolute;
+	background-image: url(mora.png);
+	border: #9A2EFE 3px double;
+	top: 300px;
+	left: 600px;
+	width: 150px;
+	height: 50px;
+}
+.lat{
+	font-family: Forte;
+	font-size: 35px;
+}
+.act2{
+	position: absolute;
+	background-image: url(mora.png);
+	border: #9A2EFE 3px double;
+	top: 300px;
+	left: 1100px;
+	width: 150px;
+	height: 50px;
+}
+.lit{
+	font-family: Forte;
+	font-size: 35px;
+}
+.act3{
+	position: absolute;
+	background-image: url(mora.png);
+	border: #9A2EFE 3px double;
+	top: 500px;
+	left: 100px;
+	width: 150px;
+	height: 50px;
+}
+.act4{
+	position: absolute;
+	background-image: url(mora.png);
+	border: #9A2EFE 3px double;
+	top: 500px;
+	left: 600px;
+	width: 150px;
+	height: 50px;
+}

@@ -1,0 +1,26 @@
+body{
+	background-color: black;
+}
+.letra{
+	font-family: Old English Text MT;
+	font-size: 150px;
+	color: #FFFFFF;
+	text-shadow: 0 0 10px #B40404, 0 0 6px #FF4000;
+}
+.imagen{
+	position: absolute;
+	top: 1px;
+	left: 140px;
+}
+.ojos{
+	position: absolute;
+	top: 50px;
+	left: 1000px;
+}
+.devo{
+	position: absolute;
+	top: 70px;
+	left: 1230px;
+	width: 109px;
+	height: 112px;
+}

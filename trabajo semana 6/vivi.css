@@ -1,0 +1,505 @@
+body{
+	background-image: url(fondo.png);
+	background-size: cover;
+}
+.trabajo{
+	font-family: Lucida Handwriting;
+	font-size: 80px;
+	text-shadow: 0 0 20px #FE9A2E, 0 0 7px #FF8000;
+}
+.xd{
+	position: absolute;
+	font-size: 100px;
+	color: #FE642E;
+	top: 295px;
+	left: 200px;
+}
+.xdd{
+	position: absolute;
+	font-size: 100px;
+	color: #FE642E;
+	top: 295px;
+	left: 800px;
+}
+.cuadro{
+	position: absolute;
+	background-color: #BDBDBD;
+	top: 1000px;
+	left: 20px;
+	width: 400px;
+	height: 380px;
+}
+.ra{
+	font-family: Goudy Stout;
+	font-size: 30px;
+	color: #5858FA;
+}
+.letra{
+	font-family: Ink Free;
+	font-size: 40px;
+	color: #000000;
+}
+.devo{
+	position: absolute;
+	width: 109px;
+	height: 112px;
+	top: 880px;
+	left: 600px;
+	background-image: url(devo.png);
+}
+.cuadro2{
+	position: absolute;
+	background-color: #BDBDBD;
+	top: 1000px;
+	left: 500px;
+	width: 340px;
+	height: 120px;
+}
+.primer{
+	font-family: Ink Free;
+	font-size: 30px;
+	color: #000000;
+}
+.fle{
+	position: absolute;
+	background-image: url(flecha.png);
+	top: 1050px;
+	left: 850px;
+	width: 164px;
+	height: 33px;
+}
+.jaja{
+	position: absolute;
+	background-image: url(w.png);
+	top: 980px;
+	left: 1020px;
+	width: 240px;
+	height: 207px;
+}
+.cuadro3{
+	position: absolute;
+	background-color: #BDBDBD;
+	top: 1325px;
+	left: 500px;
+	width: 340px;
+	height: 80px;
+}
+.segundo{
+	font-family: Ink Free;
+	font-size: 30px;
+	color: #000000;
+}
+.fle2{
+	position: absolute;
+	background-image: url(flecha.png);
+	top: 1350px;
+	left: 850px;
+	width: 164px;
+	height: 33px;
+}
+.jeje{
+	position: absolute;
+	background-image: url(q.png);
+	top: 1250px;
+	left: 1020px;
+	width: 204px;
+	height: 207px;
+}
+.cuadro4{
+	position: absolute;
+	background-color: #BDBDBD;
+	top: 1580px;
+	left: 100px;
+	width: 330px;
+	height: 200px;
+}
+.tercero{
+	font-family: Ink Free;
+	font-size: 30px;
+	color: #000000;
+}
+.fle3{
+	position: absolute;
+	background-image: url(flecha.png);
+	top: 1650px;
+	left: 480px;
+	width: 164px;
+	height: 33px;
+}
+.jiji{
+	position: absolute;
+	background-image: url(e.png);
+	top: 1500px;
+	left: 650px;
+	width: 574px;
+	height: 307px;
+}
+.ejemplo{
+	display: block;
+	position: absolute;
+	top: 1850px;
+	left: 20px;
+	width: 390px;
+	height: 170px;
+	border-radius: 15px;
+	background-color: #BDBDBD;
+}
+.ejemplo:hover{
+	display: block;
+	position: absolute;
+	top: 1850px;
+	left: 20px;
+	width: 395px;
+	height: 175px;
+	border-radius: 15px;
+	background-color: #BDBDBD;
+	box-shadow: 15px 15px 10px #848484;
+}
+.let{
+	position: absolute;
+	font-family: Goudy Stout;
+	font-size: 40px;
+	color: #5858FA;
+}
+.cap{
+	display: none;
+	position: absolute;
+	width: 653px;
+	height: 436px;
+	top: 10px;
+	left: 5px;
+	background-image: url(cap.png);
+}
+.ejemplo:hover .cap{
+	display: block;
+	position: absolute;
+	background-image: url(cap.png);
+	width: 653px;
+	height: 436px;
+	top: 10px;
+	left: 450px;
+}
+.cua{
+	position: absolute;
+	font-family: Goudy Stout;
+	font-size: 100px;
+	color: #A9F5A9;
+	top: 2800px;
+	left: 400px;
+}
+.ima{
+	position: absolute;
+	width: 109px;
+	height: 112px;
+	top: 2800px;
+	left: 1100px;
+
+}
+.cua2{
+	position: absolute;
+	font-family: Goudy Stout;
+	font-size: 100px;
+	color: #F5A9D0;
+	top: 2800px;
+	left: 410px;
+}
+.s{
+	position: absolute;
+	font-size: 40px;
+	color: #81F781;
+	top: 3100px;
+	left: 200px;
+}
+.ss{
+	position: absolute;
+	font-size: 40px;
+	color: #81F781;
+	top: 3100px;
+	left: 500px;
+}
+.sss{
+	position: absolute;
+	font-size: 40px;
+	color: #81F781;
+	top: 3100px;
+	left: 1000px;
+}
+.uwu{
+	position: absolute;
+	font-family: Goudy Stout;
+	font-size: 60px;
+	color: #A9F5A9;
+	top: 4000px;
+	left: 450px;
+}
+.uwu2{
+	position: absolute;
+	font-family: Goudy Stout;
+	font-size: 60px;
+	color: #0B610B;
+	top: 4000px;
+	left: 455px;
+}
+.devo11{
+	position: absolute;
+	width: 109px;
+	height: 112px;
+	top: 3980px;
+	left: 300px;
+}
+.dro{
+	position: absolute;
+	width: 500px;
+	height: 300px;
+	top: 4200px;
+	left: 420px;
+	background-color: #F5A9D0;
+	box-shadow: 15px 15px 20px #F781BE;
+	font-family: Ink Free;
+	font-size: 31px;
+	color: #000000;
+}
+.dro:hover{
+	position: absolute;
+	width: 500px;
+	height: 300px;
+	top: 4200px;
+	left: 420px;
+	background-color: #F5A9D0;
+	box-shadow: 15px 15px 25px #F781BE;
+	transform: rotateY(130deg);
+	transition: transform 6s;
+}
+.kaka{
+	display: block;
+	position: absolute;
+	top: 4250px;
+	left: 1000px;
+	width: 201px;
+	height: 192px;
+	animation-name: juli;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+}
+@keyframes juli{
+	25%{background-image: url(exe.png); }
+	40%{background-image: url(exe2.png); }
+	35%{background-image: url(exe3.png); }
+}
+.owo{
+	position: absolute;
+	font-family: Goudy Stout;
+	font-size: 60px;
+	color: #F5A9D0;
+	top: 5200px;
+	left: 150px;
+}
+.owo2{
+	position: absolute;
+	font-family: Goudy Stout;
+	font-size: 60px;
+	color: #FA5882;
+	top: 5200px;
+	left: 155px;
+}
+.devo12{
+	position: absolute;
+	width: 109px;
+	height: 112px;
+	top: 5200px;
+	left: 20px;
+}
+.dro2{
+	position: absolute;
+	width: 500px;
+	height: 300px;
+	top: 5400px;
+	left: 420px;
+	background-color: #A9F5A9;
+	box-shadow: 15px 15px 20px #0B610B;
+	font-family: Ink Free;
+	font-size: 31px;
+	color: #000000;
+}
+.dro2:hover{
+	position: absolute;
+	width: 500px;
+	height: 300px;
+	top: 5400px;
+	left: 420px;
+	background-color: #A9F5A9;
+	box-shadow: 15px 15px 20px #0B610B;
+	font-family: Ink Free;
+	font-size: 31px;
+	color: #000000;
+	transform: scale(2, 3);
+	transition: transform 6s;
+}
+.unu{
+	position: absolute;
+	font-family: Goudy Stout;
+	font-size: 60px;
+	color: #A9F5A9;
+	top: 6400px;
+	left: 400px;
+}
+.unu2{
+	position: absolute;
+	font-family: Goudy Stout;
+	font-size: 60px;
+	color: #0B610B;
+	top: 6400px;
+	left: 405px;
+}
+.devo13{
+	position: absolute;
+	width: 109px;
+	height: 112px;
+	top: 6380px;
+	left: 280px;
+}
+.A{
+	display: block;
+	position: absolute;
+	width: 450px;
+	height: 60px;
+	top: 6500px;
+	left: 100px;
+	background-color: #F5A9D0;
+	font-family: Ink Free;
+	font-size: 51px;
+	color: #000000;
+}
+.A:hover{
+	position: absolute;
+	background-color: #FA5882;
+}
+.ale{
+	display: none;
+	position: absolute;
+	width: 302px;
+	height: 281px;
+	top: 10px;
+	left: 650px;
+	background-image: url(aleatorios.png);
+}
+.A:hover .ale{
+	position: absolute;
+	display: block;
+}
+.C{
+	display: block;
+	position: absolute;
+	width: 450px;
+	height: 60px;
+	top: 6560px;
+	left: 100px;
+	background-color: #F5A9D0;
+	font-family: Ink Free;
+	font-size: 51px;
+	color: #000000;
+}
+.C:hover{
+	position: absolute;
+	background-color: #FA5882;
+}
+.con{
+	display: none;
+	position: absolute;
+	width: 461px;
+	height: 257px;
+	top: -60px;
+	left: 600px;
+	background-image: url(contar.png);
+}
+.C:hover .con{
+	position: absolute;
+	display: block;
+}
+.S{
+	display: block;
+	position: absolute;
+	width: 450px;
+	height: 60px;
+	top: 6620px;
+	left: 100px;
+	background-color: #F5A9D0;
+	font-family: Ink Free;
+	font-size: 51px;
+	color: #000000;
+}
+.S:hover{
+	position: absolute;
+	background-color: #FA5882;
+}
+.su{
+	display: none;
+	position: absolute;
+	width: 302px;
+	height: 281px;
+	top: -110px;
+	left: 650px;
+	background-image: url(suma.png);
+}
+.S:hover .su{
+	position: absolute;
+	display: block;
+}
+.P{
+	display: block;
+	position: absolute;
+	width: 450px;
+	height: 60px;
+	top: 6680px;
+	left: 100px;
+	background-color: #F5A9D0;
+	font-family: Ink Free;
+	font-size: 51px;
+	color: #000000;
+}
+.P:hover{
+	position: absolute;
+	background-color: #FA5882;
+}
+.pro{
+	display: none;
+	position: absolute;
+	width: 461px;
+	height: 257px;
+	top: -140px;
+	left: 600px;
+	background-image: url(promedio.png);
+}
+.P:hover .pro{
+	position: absolute;
+	display: block;
+}
+.SI{
+	display: block;
+	position: absolute;
+	width: 450px;
+	height: 60px;
+	top: 6740px;
+	left: 100px;
+	background-color: #F5A9D0;
+	font-family: Ink Free;
+	font-size: 51px;
+	color: #000000;
+}
+.SI:hover{
+	position: absolute;
+	background-color: #FA5882;
+}
+.si{
+	display: none;
+	position: absolute;
+	width: 461px;
+	height: 257px;
+	top: -230px;
+	left: 600px;
+	background-image: url(si.png);
+}
+.SI:hover .si{
+	position: absolute;
+	display: block;
+}

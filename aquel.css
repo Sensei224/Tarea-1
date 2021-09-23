@@ -1,0 +1,38 @@
+body{
+	background-image: url(fondo3.png);
+	background-size: cover;
+}
+.letra{
+	font-family: Goudy Stout;
+	font-size: 100px;
+	animation-name: juli;
+	animation-duration: 10s;
+	animation-iteration-count: infinite;
+}
+@keyframes juli{
+	0%{color: #ffffff;}
+	25%{color: #688A08;}
+	50%{color: #00FFBF;}
+	100%{color: #FFFF00;}
+}
+.letra2{
+	position: absolute;
+	font-family: Goudy Stout;
+	font-size: 100px;
+	top: 5px; 
+	left: 190px;
+}
+.letra3{
+	position: absolute;
+	font-family: Goudy Stout;
+	font-size: 100px;
+	top: 5px; 
+	left: 1070px;
+}
+.devo{
+	position: absolute;
+	top: 20px;
+	left: 1230px;
+	width: 109px;
+	height: 112px;
+}

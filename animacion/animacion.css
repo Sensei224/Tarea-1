@@ -1,0 +1,15 @@
+body{
+	background-image: url(sol.png);
+	background-size: cover;
+}
+.titu{
+	font-family: Old English Text MT;
+	font-size: 150px;
+	color: #8658B4;
+	text-shadow: 0 0 10px #431E6A, 0 0 6px #512D76;
+}
+.video{
+	position: absolute;
+	top: 200px;
+	left: 300px;
+}

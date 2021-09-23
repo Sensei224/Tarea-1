@@ -1,0 +1,361 @@
+body{
+	background-image: url(fondito.png);
+	background-size: cover;
+}
+.tra{
+	font-family: Goudy Stout;
+	font-size: 50px;
+	color: #848484;
+	animation-name: juli;
+	animation-duration: 10s;
+	animation-iteration-count: infinite;
+}
+@keyframes juli{
+	0%{color: #FFFFFF;}
+	25%{color: #848484;}
+	50%{color: #F781F3;}
+	100%{color: #D358F7;}
+}
+.xd{
+	position: absolute;
+	font-size: 40px;
+	color: #9A2EFE;
+	top: 295px;
+	left: 200px;
+}
+.xdd{
+	position: absolute;
+	font-size: 40px;
+	color: #9A2EFE;
+	top: 295px;
+	left: 500px;
+}
+.xddd{
+	position: absolute;
+	font-size: 40px;
+	color: #9A2EFE;
+	top: 295px;
+	left: 720px;
+}
+.xdddd{
+	position: absolute;
+	font-size: 40px;
+	color: #9A2EFE;
+	top: 295px;
+	left: 900px;
+}
+.xddddd{
+	position: absolute;
+	font-size: 40px;
+	color: #9A2EFE;
+	top: 380px;
+	left: 580px;
+}
+.cuadro{
+	position: absolute;
+	background-color: #F3F781;
+	top: 1000px;
+	left: 20px;
+	width: 400px;
+	height: 380px;
+}
+.le{
+	font-family: Goudy Stout;
+	font-size: 30px;
+	color: #848484;
+}
+.img{
+	position: absolute;
+	background-image: url(c++.png);
+	height: 300px;
+	width: 300px;
+	top: 70px;
+	left: 50px;
+}
+.cinta{
+	position: absolute;
+	background-image: url(cinta.png);
+	top: 970px;
+	left: 170px;
+	width: 121px;
+	height: 33px;
+}
+.cuadro2{
+	position: absolute;
+	background-color: #F3F781;
+	top: 1250px;
+	left: 600px;
+	width: 680px;
+	height: 180px;
+}
+.le2{
+	font-family: Ink Free;
+	font-size: 35px;
+	color: #848484;
+}
+.cinta2{
+	position: absolute;
+	background-image: url(cinta.png);
+	top: 1220px;
+	left: 850px;
+	width: 121px;
+	height: 33px;
+}
+.ju{
+	position: absolute;
+	top: 1000px;
+	left: 1000px;
+}
+.punto{
+	position: absolute;
+	font-family: Goudy Stout;
+	font-size: 100px;
+	color: #F3F781;
+	left: 430px;
+	top: 980px;3
+}
+.cua{
+	position: absolute;
+	background-color: #DA81F5;
+	top: 1800px;
+	left: 900px;
+	width: 400px;
+	height: 380px;
+}
+.img2{
+	position: absolute;
+	background-image: url(vari.png);
+	height: 277px;
+	width: 268px;
+	top: 70px;
+	left: 50px;
+}
+.cinta3{
+	position: absolute;
+	background-image: url(cinta2.png);
+	top: 1770px;
+	left: 1040px;
+	width: 121px;
+	height: 33px;
+}
+.cua2{
+	position: absolute;
+	background-color: #DA81F5;
+	top: 2050px;
+	left: 20px;
+	width: 680px;
+	height: 220px;
+}
+.et{
+	font-family: Ink Free;
+	font-size: 35px;
+	color: black;
+}
+.cinta4{
+	position: absolute;
+	background-image: url(cinta2.png);
+	top: 2022px;
+	left: 280px;
+	width: 121px;
+	height: 33px;
+}
+.ja{
+	position: absolute;
+	top: 1800px;
+	left: 120px;
+}
+.punto2{
+	position: absolute;
+	font-family: Goudy Stout;
+	font-size: 100px;
+	color: #DA81F5;
+	left: 310px;
+	top: 1780px;
+}
+.dro{
+	position: absolute;
+	background-color: #F5A9E1;
+	top: 2600px;
+	left: 20px;
+	width: 400px;
+	height: 380px;
+}
+.img3{
+	position: absolute;
+	background-image: url(ciclos.png);
+	height: 300px;
+	width: 300px;
+	top: 70px;
+	left: 50px;
+}
+.cinta5{
+	position: absolute;
+	background-image: url(cinta3.png);
+	top: 2570px;
+	left: 170px;
+	width: 121px;
+	height: 33px;
+}
+.boto{
+	display: block;
+	position: absolute;
+	background-color: #FA58D0;
+	top: 2600px;
+	left: 500px;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+}
+.if{
+	display: none;
+	position: absolute;
+	background-image: url(if.png);
+	width: 400px;
+	height: 400px;
+	top: 2600px;
+	left: 700px;
+}
+.boto:hover .if{
+	display: block;
+	position: absolute;
+	top: 10px;
+	left: 200px;
+}
+.boto2{
+	position: absolute;
+	background-color: #FA58D0;
+	top: 2730px;
+	left: 500px;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+}
+.while{
+	display: none;
+	position: absolute;
+	background-image: url(while.png);
+	width: 400px;
+	height: 400px;
+	top: 2600px;
+	left: 700px;
+}
+.boto2:hover .while{
+	display: block;
+	position: absolute;
+	top: -120px;
+	left: 200px;
+}
+.boto3{
+	position: absolute;
+	background-color: #FA58D0;
+	top: 2860px;
+	left: 500px;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+}
+.for{
+	display: none;
+	position: absolute;
+	background-image: url(for.png);
+	width: 400px;
+	height: 400px;
+	top: 2600px;
+	left: 700px;
+}
+.boto3:hover .for{
+	display: block;
+	position: absolute;
+	top: -250px;
+	left: 200px;
+}
+.je{
+	position: absolute;
+	top: 2600px;
+	left: 1150px;
+}
+.cubo{
+	position: absolute;
+	background-color: #FA5882;
+	top: 3400px;
+	left: 900px;
+	width: 400px;
+	height: 380px;
+}
+.img4{
+	position: absolute;
+	background-image: url(libreria.png);
+	height: 300px;
+	width: 300px;
+	top: 70px;
+	left: 50px;
+}
+.cinta6{
+	position: absolute;
+	background-image: url(cinta4.png);
+	top: 3370px;
+	left: 1040px;
+	width: 121px;
+	height: 33px;
+}
+.cubo2{
+	position: absolute;
+	background-color: #FA5882;
+	top: 3650px;
+	left: 20px;
+	width: 680px;
+	height: 150px;
+}
+.at{
+	font-family: Ink Free;
+	font-size: 35px;
+	color: black;
+}
+.cinta7{
+	position: absolute;
+	background-image: url(cinta4.png);
+	top: 3620px;
+	left: 260px;
+	width: 121px;
+	height: 33px;
+}
+.ji{
+	position: absolute;
+	top: 3400px;
+	left: 120px;
+}
+.punto3{
+	position: absolute;
+	font-family: Goudy Stout;
+	font-size: 100px;
+	color: #FE2E2E;
+	left: 310px;
+	top: 3380px;
+}
+.boton{
+	position: absolute;
+	background-color: #F7819F;
+	top: 4100px;
+	left: 100px;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+}
+.libre{
+	display: none;
+	position: absolute;
+	background-color: #FA5882; 
+	font-family: Ink Free;
+	font-size: 35px;
+	color: black;
+	width: 800px;
+	height: 300px;
+	top: 2600px;
+	left: 700px;
+}
+.boton:hover .libre{
+	display: block;
+	position: absolute;
+	top: -200px;
+	left: 200px;
+}

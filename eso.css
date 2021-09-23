@@ -1,0 +1,40 @@
+body{
+	background-image: url(fondo4.png);
+	background-size: cover;
+}
+.letra{
+	font-family: Parchment;
+	font-size: 220px;
+	animation-name: juli;
+	animation-duration: 10s;
+	animation-iteration-count: infinite;
+}
+@keyframes juli{
+	0%{color: #848484;}
+	25%{color: #F781F3;}
+	50%{color: #FFFFFF;}
+	100%{color: #F7FE2E;}
+}
+.gif{
+	background-image: url(nube.gif);
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	top: -50px;
+	left: 200px;
+}
+.gif2{
+	background-image: url(nube.gif);
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	top: -50px;
+	left: 850px;
+}
+.devo{
+	position: absolute;
+	top: 70px;
+	left: 1230px;
+	width: 109px;
+	height: 112px;
+}
